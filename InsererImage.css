@@ -1,0 +1,12 @@
+body{
+    background: blue;
+}
+
+img {
+    height: 350px;
+    display: block;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 1px;
+}
+
